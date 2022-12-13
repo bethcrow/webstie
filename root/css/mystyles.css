@@ -1,0 +1,35 @@
+body{
+    background-color: #FFFDD0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.titlewords{
+    margin-top: 2rem;
+    margin-left: 3rem;
+
+}
+.titlewords h1{
+    text-transform: uppercase;
+    
+
+}
+iframe{
+    margin-left: 3rem;
+    padding-bottom: 2rem;
+}
+img{
+    width: 70%;
+    margin-left: 3rem;
+    padding-bottom: 1rem;
+}
+.dispaly{
+    display: flex;
+
+}
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
